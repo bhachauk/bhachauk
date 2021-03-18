@@ -1,5 +1,4 @@
 ![Saran's github stats](https://github-readme-stats.vercel.app/api?username=bhanuchander210&show_icons=true&hide_border=true)
-[![Stackoverflow](https://i1.wp.com/stackoverflow.com/users/flair/8331235.png)](https://stackoverflow.com/users/8331235/bhanuchander-udhayakumar)
 
 <!--
 **Bhanuchander210/bhanuchander210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
