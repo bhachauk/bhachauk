@@ -4,6 +4,8 @@
   <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
 </div>
 
+<script></script>
+
 ## PyPI Packages
 - [patch_antenna](https://github.com/Bhanuchander210/patch_antenna)
 - [keras_flower](https://github.com/Bhanuchander210/keras_flower)
