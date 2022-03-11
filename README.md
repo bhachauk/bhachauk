@@ -1,3 +1,9 @@
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
+  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+</div>
+
 ## PyPI Packages
 - [patch_antenna](https://github.com/Bhanuchander210/patch_antenna)
 - [keras_flower](https://github.com/Bhanuchander210/keras_flower)
