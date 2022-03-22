@@ -8,4 +8,4 @@
 - [naruto_eyes_classification](https://github.com/Bhanuchander210/naruto_eyes_classification)
 - [Adasher components](https://adasher.herokuapp.com/)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=bhanuchander210&show_icons=true&hide_border=true)
+|![github stats](https://github-readme-stats.vercel.app/api?username=bhanuchander210&show_icons=true&hide_border=true)|![github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuchander210&layout=compact&langs_count=10&show_icons=true&hide_border=true)|
