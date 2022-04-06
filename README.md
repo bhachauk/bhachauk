@@ -9,3 +9,5 @@
 - [Adasher components](https://adasher.herokuapp.com/)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=bhanuchander210&show_icons=true&hide_border=true)![github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuchander210&layout=compact&langs_count=10&show_icons=true&hide_border=true)
+
+[![Downloads](https://static.pepy.tech/personalized-badge/patch-antenna?period=total&units=abbreviation&left_color=black&right_color=green&left_text=patch_antenna)](https://pepy.tech/project/patch-antenna)[![Downloads](https://static.pepy.tech/personalized-badge/keras-flower?period=total&units=abbreviation&left_color=black&right_color=green&left_text=keras_flower)](https://pepy.tech/project/keras-flower)[![Downloads](https://static.pepy.tech/personalized-badge/adasher?period=total&units=abbreviation&left_color=black&right_color=green&left_text=adasher)](https://pepy.tech/project/adasher)
