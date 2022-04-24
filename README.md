@@ -1,4 +1,4 @@
-[![blog](https://img.shields.io/badge/blog-live-GREEN?style=for-the-badge&logo=appveyor)](https://bhanuchander210.github.io){:target="_blank"}
+[![blog](https://img.shields.io/badge/blog-live-GREEN?style=for-the-badge&logo=appveyor)](https://bhanuchander210.github.io)
 
 ## PyPI Packages
 - [patch_antenna](https://github.com/Bhanuchander210/patch_antenna)
