@@ -1,3 +1,5 @@
+[![TM Forum AI Data Manager](https://www.tmforum.org/wp-content/uploads/2020/06/AIDM-badge.png)](https://www.tmforum.org/training-certification/certification-listing/)
+
 [![blog](https://img.shields.io/badge/blog-live-GREEN?style=for-the-badge&logo=appveyor)](https://bhanuchander210.github.io)
 
 ## PyPI Packages
