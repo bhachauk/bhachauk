@@ -18,3 +18,5 @@
 [![Downloads](https://static.pepy.tech/personalized-badge/patch-antenna?period=total&units=abbreviation&left_color=black&right_color=grey&left_text=patch_antenna)](https://pepy.tech/project/patch-antenna)  [![Downloads](https://static.pepy.tech/personalized-badge/keras-flower?period=total&units=abbreviation&left_color=black&right_color=grey&left_text=keras_flower)](https://pepy.tech/project/keras-flower)  [![Downloads](https://static.pepy.tech/personalized-badge/adasher?period=total&units=abbreviation&left_color=black&right_color=grey&left_text=adasher)](https://pepy.tech/project/adasher)
 
 <a href="https://www.tmforum.org/training-certification/certification-listing/"><img src="https://www.tmforum.org/wp-content/uploads/2020/06/AIDM-badge.png" width="100"/></a>
+<a href="https://bhanuchander210.github.io/images/aws_ccp.png"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100"/></a>
+
